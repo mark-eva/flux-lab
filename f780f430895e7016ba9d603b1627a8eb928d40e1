@@ -1,0 +1,1 @@
+{"jobID":"fed580c7-7eef-c2af-33b3-7b1874af5d1a","spec":{"type":"policy","cause":{"Message":"","User":"idempot3nt \u003cmark.eva@hotmail.com\u003e"},"spec":{"default:deployment/nginxhello":{"add":{"automated":"true"},"remove":{}}}},"result":null}
