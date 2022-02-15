@@ -8,7 +8,7 @@ metadata:
 spec:
   chart:
     git: ssh://git@github.com/mark-eva/nginxhello-hr.yaml
-    path: helm/chart
+    path: helm
     ref: master
   rollback:
     enable: true
