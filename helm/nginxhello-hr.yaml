@@ -7,8 +7,8 @@ metadata:
     fluxcd.io/ignore: "false"
 spec:
   chart:
-    git: ssh://git@github.com/mark-eva/nginxhello-hr.yaml
-    path: helm
+    git: ssh://git@github.com/mark-eva/gitops-nginxhello-hr.yaml
+    path: helm/chart
     ref: master
   rollback:
     enable: true
